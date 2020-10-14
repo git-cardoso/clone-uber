@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/raw/countrycodes.json",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/raw/countrycodes.json"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/raw/beep.mp3",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/raw/beep.mp3"
+    }
+]

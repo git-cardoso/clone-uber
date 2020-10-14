@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/menu/history_details.xml",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/menu/history_details.xml"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/menu/main.xml"
+    }
+]

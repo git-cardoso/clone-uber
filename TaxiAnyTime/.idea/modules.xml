@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TaxiAnyTime.iml" filepath="$PROJECT_DIR$/TaxiAnyTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fancylibrary/fancylibrary.iml" filepath="$PROJECT_DIR$/fancylibrary/fancylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" filepath="$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxiAnytime/taxiAnytime.iml" filepath="$PROJECT_DIR$/taxiAnytime/taxiAnytime.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_c19bb0218a92d75626d84a3a4c695eb7e1c3f724.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_869fcd1d20e7b0c6b7eeed6f664f0bcdc3c0d409.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_ebd4e89eabb9572f69809215c7b30bf6e131ed4c.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_a5d4f25b55f2cf97c7639407b1986c8c521e6458.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_6044c39f01d37344a8a05369c428964a4bda9f9e.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_8eea96d5dc675fe5af5fe0eda4c0524e813bb403.jar" />
+    </item>
+    <item
+        jar="/vol1/Android-Studio &amp; SDK/SDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_06dcf5075b7325d1d4eafd27ebf480f67ec024b2.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_2de0b55d67f85c8410f782ba63ff9c3cf02cc674.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/Taxi Anytime Driver/library_pinnlistivew/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e786abe6df9ccf0b19fd339115335a73749c2ccb">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/Taxi Anytime Driver-library_pinnlistivew-unspecified_96ce9701409ab090cae4ad2c43bd0da600978aca.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/Taxi Anytime Driver/facebookSDK/unspecified/jars/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="50194622d5fa8f1ebae5ab49a8ac85ab48ace304">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/bolts-android-1.1.2_013c0dd2596ecf0905ef755522024b8f524d63f3.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_77a663632ecfd9f8cb4d558da902792fa984ac3a.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/simple.facebook-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9a197f31cff950884d322ee0bd6bf3b15a221e32">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/simple.facebook-2.1_39dd87d04b9e1ab105f833b9faa342bd210d1bb6.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_a0de811241d62f9aaca1a15bfd1e562fe09d3563.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_e11b5fcca04a35f1543590ba6a318e4b15d9d4ef.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_d536ed10ad8300da790fc39a98b9abdfe73ec864.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/Taxi Anytime Driver/cropLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0176aee7d6a11b6243177770afd004435adddbdd">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/Taxi Anytime Driver-cropLibrary-unspecified_4e80600b51fd637cc5ab0b3910ee64340a27c41a.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_15932f1176ece09e2771210e920eed0a4673f979.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_3435e68273b70b0df4f9d376be41cea3df377d39.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_2ab8aabafe5671a7417e834eb30ad98352fcef08.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/Taxi Anytime Driver/circularImageView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="159418a34d10b9983b93a7146b85549ed1ee4957">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/Taxi Anytime Driver-circularImageView-unspecified_4ac8508a0b13e297c22805f7a9ef034335571781.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/android-query.0.26.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa997823bc89263500714864ff136de1e6025b4e">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/android-query.0.26.7_db73898d05845fe80e0eb5bea019242c378745e0.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_1b6266d62f58c7da4e9f1572e0af22994299d36e.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_35e67b2ede67eb734d27cff3a360d6e3aafd0f3f.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/apache-mime4j-core-0.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a81264fe0265ebe8fd1d8128aad06dc320de6eef">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/apache-mime4j-core-0.7.2_77bff37a3ede4203cb51596488551009a4b10b8a.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_6f8270389e342d111bee9e1d58de6423e6e1ce6c.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/gcm.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/gcm_351cb72f776fd591b75660ea540f5e49a5100a9e.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/splunk-mint-4.0.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19452a9f6424ddae60c51f97e93cb9bec3dddfd2">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/splunk-mint-4.0.8_a93f7f6bad46e4fe6e8d5c7d794109676fce162b.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_5889939ff9053984ea571b10ac9de85c7c8520f6.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_05818aad3c3ee73a2c285c02034c0bb2262005b2.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_477304de99c2501fcea678c640b5f87df10e8d2b.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_707553749bdcedb2a3a84c0f8c2a645db5c21464.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_b115e1a83bba4a68ade298dfcfd6dc49a7b6f04e.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_90ba6b54624e7535fe8997b93d9087e31d359c16.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/httpclient-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9783d89b8eea20a517a4afc5f979bd2882b54c44">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/httpclient-4.3.5_92115692b9a8708ef3a8746d76123382a490e4a1.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/Taxi Anytime Driver/facebookSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a400b9f57d7013fd70a1f5c3129da42e582674d">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/Taxi Anytime Driver-facebookSDK-unspecified_e45c61b7a87e6b160a4bcfdb73a25565845b4aec.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_09aa45151ebb8ef2f56776da301b04e3eb871b83.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_8af052407d852f56570062df11891e315ef61157.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_1601468b2c6b685685ffed8a36673f364676c672.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_f979c5d72575f79725e43bc782ea6f7ade1a885a.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/httpmime-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/httpmime-4.3.5_4d71b9eac7efbeb1845ca24c16dbf09729de2432.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/libs/httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/httpcore-4.3.2_975d554c674a73c17dc02e2981af3bb55571fb98.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/Taxi Anytime Driver/androidswitchbackport/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e72fa50cdacc2b02956d129f2fabd5943df0ed97">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/Taxi Anytime Driver-androidswitchbackport-unspecified_bdf009d6d2d536fc1dfc36ce3784c6b0496fdeec.jar" />
+    </item>
+    <item
+        jar="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_a83ef7192d5bc44d5b566d7af6f363a9e5ddb6f2.jar" />
+    </item>
+
+</items>

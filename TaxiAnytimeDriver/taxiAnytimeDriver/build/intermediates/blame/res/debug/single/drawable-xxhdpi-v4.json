@@ -1,0 +1,798 @@
+[
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_off_mono_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/line_invoice.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/line_invoice.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/picture_register.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/picture_register.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/back.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/back.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/powered_by_google_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/onine_logo.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/onine_logo.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/location_dot.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/location_dot.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ellipse_contacting.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/ellipse_contacting.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_actionbar.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_actionbar.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/star_feedback.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/star_feedback.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_signin.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_signin.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_0.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-xxhdpi/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_on_2_mono_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/date.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/date.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_close.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/icon_close.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rate_star.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/rate_star.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_2.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-xxhdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_1.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-xxhdpi/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/menu.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_menu.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_menu.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_on.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-xxhdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_btn_small.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_btn_small.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ub__button_centerlocation_pressed.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/ub__button_centerlocation_pressed.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/app_name.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/app_name.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/round_button.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/round_button.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_pause.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_pause.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_play.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_play.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_white.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_on_0_mono_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/arrwo_notification.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/arrwo_notification.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_disabled_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/overdue_btn_feedback.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/overdue_btn_feedback.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/gmail_w.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/gmail_w.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/divider_register.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/divider_register.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_splash.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_splash.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_pickup_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/btn_pickup_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_loding.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_loding.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/line.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/line.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_play_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_play_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/no_items.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/no_items.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pin.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/pin.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/powered_by_google_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edit_profile.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/edit_profile.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/attention_signin.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/attention_signin.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pin_driver.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/pin_driver.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/selected_service.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/selected_service.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/timer.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/timer.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_disabled_mono_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/card.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/card.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sound_off.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/sound_off.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fb_register.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/fb_register.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/line_divider.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/line_divider.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_favicon_white.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/map_box.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/map_box.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/star_feedback_blank.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/star_feedback_blank.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_done.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/btn_done.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pickup_drop.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/pickup_drop.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_on_1_mono_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/photocam_register.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/photocam_register.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/location_dot_runtime.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/location_dot_runtime.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_on_0_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pin_client_destination.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/pin_client_destination.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/loading_car.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/loading_car.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/gmail.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/gmail.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sound_on.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/sound_on.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/places_ic_search.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxhdpi/places_ic_search.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fb_signin.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/fb_signin.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/user.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/user.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/arrow_right.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/nav_divider_line.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/nav_divider_line.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_edittext.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_edittext.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_blue.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_btn_small_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_btn_small_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/places_ic_clear.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxhdpi/places_ic_clear.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_off_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_off_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_pause_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_pause_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/loading.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/loading.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_setting_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_setting_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_setting_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_setting_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/divider.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/divider.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_on_1_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/navigation.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/navigation.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/popup.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/popup.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_pickup.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/btn_pickup.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/right.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/right.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sarch.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/sarch.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/info.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/info.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/section_box_history.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/section_box_history.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_play_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_play_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_navigation.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/btn_navigation.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/card_line_payment_popup.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/card_line_payment_popup.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sarch_box.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/sarch_box.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/close_payment.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/close_payment.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/check.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/check.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/dot_fare_estimate.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/dot_fare_estimate.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cash.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/cash.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pin_client_org.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/pin_client_org.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/clock.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/clock.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_on_2_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_pause_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_pause_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_bill_trans.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_bill_trans.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_on_light.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_on_light.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/completed_btn_feedback.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/completed_btn_feedback.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_icon_white.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_on_mono_dark.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/divider_signin.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/divider_signin.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/call_btn_notification.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/call_btn_notification.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_large_white.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_profile.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/bg_profile.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ub__button_centerlocation_normal.png",
+        "source": "/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/src/main/res/drawable-xxhdpi/ub__button_centerlocation_normal.png"
+    }
+]

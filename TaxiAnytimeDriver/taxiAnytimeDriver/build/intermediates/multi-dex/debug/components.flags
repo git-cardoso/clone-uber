@@ -1,0 +1,115 @@
+-injars '/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar'
+-outjars '/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars '/vol1/Android-Studio & SDK/SDK/build-tools/23.0.2/lib/shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration '/vol2/AndroidStudioWorkspace/Taxi Anytime Driver/taxiAnytimeDriver/build/intermediates/multi-dex/debug/components.flags'
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.ondemandbay.taxianytime.driver.MapActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.RegisterActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.ProfileActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.MenuDescActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.HistoryActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.HistoryDetailsActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.SettingActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.MainActivity {
+    <init>();
+}
+
+-keep class com.soundcloud.android.crop.CropImageActivity {
+    <init>();
+}
+
+-keep class com.facebook.LoginActivity {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.GCMIntentService {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.locationupdate.LocationUpdateService {
+    <init>();
+}
+
+-keep class com.google.android.gcm.GCMBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.ondemandbay.taxianytime.driver.MyReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

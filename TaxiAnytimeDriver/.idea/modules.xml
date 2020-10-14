@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Taxi Anytime Driver.iml" filepath="$PROJECT_DIR$/Taxi Anytime Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" filepath="$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxiAnytimeDriver/taxiAnytimeDriver.iml" filepath="$PROJECT_DIR$/taxiAnytimeDriver/taxiAnytimeDriver.iml" />
+    </modules>
+  </component>
+</project>
