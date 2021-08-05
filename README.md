@@ -22,3 +22,4 @@ Sim, toda ideia foi pensada no uber.
 
 ![GitHub](https://img.shields.io/badge/licence-BSD-GREE) 
 
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logoColor=white&color=blue)
