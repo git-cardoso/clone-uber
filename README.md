@@ -20,4 +20,5 @@ Sim, toda ideia foi pensada no uber.
 
 
 
+![GitHub](https://img.shields.io/badge/licence-BSD-GREE) 
 
