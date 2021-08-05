@@ -1,7 +1,4 @@
-🚗️ 🚕️ ☕️  🌎️ 🤓️
-
-
-Aplicativo de prestação de serviço urbano.
+## Aplicativo de prestação de serviço urbano.
 
 Código funcional de pedido  alternativo para transporte.
 
