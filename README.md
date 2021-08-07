@@ -18,6 +18,8 @@ Sim, toda ideia foi pensada no uber.
 
 ## Projeto desatualizado.
 
+Diante das tais circustancias o projeto clone uber foi parado, pela falto de tempo e pelo custo de aquisição de api's privadas
+
 
   
 
